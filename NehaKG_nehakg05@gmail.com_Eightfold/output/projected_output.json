@@ -1,0 +1,36 @@
+{
+    "candidate_name": "Thomas Andrew",
+    "primary_email": "thomasandrew@gmail.com",
+    "headline": "Software Engineer",
+    "overall_confidence": 0.9,
+    "provenance": {
+        "full_name": {
+            "source": "ATS",
+            "method": "direct"
+        },
+        "emails": {
+            "source": "ATS",
+            "method": "direct"
+        },
+        "phones": {
+            "source": "ATS",
+            "method": "normalized"
+        },
+        "headline": {
+            "source": "LinkedIn",
+            "method": "direct"
+        },
+        "location": {
+            "source": "LinkedIn",
+            "method": "direct"
+        },
+        "years_experience": {
+            "source": "ATS",
+            "method": "direct"
+        },
+        "skills": {
+            "source": "ATS+LinkedIn",
+            "method": "merged"
+        }
+    }
+}
