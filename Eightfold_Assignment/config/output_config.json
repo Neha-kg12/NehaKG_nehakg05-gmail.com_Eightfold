@@ -1,0 +1,18 @@
+{
+  "fields": [
+    {
+      "path": "candidate_name",
+      "from": "full_name"
+    },
+    {
+      "path": "primary_email",
+      "from": "emails[0]"
+    },
+    {
+      "path": "headline",
+      "from": "headline"
+    }
+  ],
+  "include_confidence": true,
+  "include_provenance": true
+}
