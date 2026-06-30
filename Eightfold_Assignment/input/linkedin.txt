@@ -1,5 +1,0 @@
-Thomas Andrew
-Software Engineer
-Location: Bangalore, India
-Skills: Python, SQL, Machine Learning
-Experience: 3 years
